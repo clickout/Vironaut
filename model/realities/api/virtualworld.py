@@ -1,3 +1,5 @@
+import typing
+
 class VirtualWorld:
     def __init__(self, theme, date, energy, biomes):
         self.theme = theme
